@@ -1,4 +1,4 @@
-# Sistema de Classificação de Idade e Gênero com Fotos
+# Sistema de Classificação de Idade e Gênero
 
 Este é um sistema simples que permite aos usuários inserirem o ano de nascimento e o gênero de uma pessoa em um formulário. Com base nessas informações, o sistema exibirá uma foto correspondente à faixa etária e ao gênero selecionados. O objetivo deste sistema é ilustrar de forma visual como as características de idade e gênero podem ser utilizadas para categorizar uma pessoa em diferentes grupos.
 

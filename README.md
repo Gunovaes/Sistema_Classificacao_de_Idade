@@ -4,7 +4,8 @@ Este é um sistema simples que permite aos usuários inserirem o ano de nascimen
 
 ## Como Usar o Sistema
 
-1. Acesse a página inicial do sistema.
+1. Acesse a página inicial do sistema:
+https://gunovaes.github.io/Sistema_Classificacao_de_Idade/sistema.html
 
 2. Na página inicial, você encontrará um formulário com os seguintes campos:
    - **Ano de Nascimento:** Insira o ano de nascimento da pessoa que deseja classificar.

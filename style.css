@@ -1,18 +1,32 @@
-body{
+body {
     background-color: blueviolet;
     font: normal 15pt Arial;
-}header{
-color: aliceblue;
-text-align: center;
-}section{
+    margin: 0;
+}
+
+header {
+    color: aliceblue;
+    text-align: center;
+}
+
+section {
     background-color: white;
-border-radius: 10px;
-padding: 15px;
-width: 500px;
-margin: auto;
-box-shadow: 5px 5px 10px;
-}footer{
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px auto;
+    box-shadow: 5px 5px 10px;
+    max-width: 500px; 
+}
+
+footer {
     color: aliceblue;
     text-align: center;
     font-size: italic;
+}
+
+@media only screen and (max-width: 600px) {
+    section {
+        width: 90%;
+        margin: 10px auto;
+    }
 }
